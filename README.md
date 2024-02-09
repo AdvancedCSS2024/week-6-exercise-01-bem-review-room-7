@@ -81,15 +81,13 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
 > [!TIP]
 > There are more mistakes to fix here :)
 
-    <section class="card">
-        <article class="card article__dog">
-            <aside class="article__dog aside">
-                <figure class="article__dog figure">
+ <article class="card__animal article__dog">
+            <aside class="article__dog__aside">
+                <figure class="article__dog__figure">
                     <img src="..." alt="Dummy Image" class="" />
                 </figure>
              </aside>
          </article>
-    </section>
 
 ## Example 6
     .button--styled--disabled{
