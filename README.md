@@ -136,7 +136,7 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     }
 
 ## Example 11
-    <main class="main__flex-wrap">
+    <main>
         ...
     </main>
 > [!TIP]
