@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/P3kz0bBR)
 # BEM in practice
 
 ## Part 1 - BEM
@@ -61,8 +62,8 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     }
 
 ## Example 3
-    .Newcard {
-      border: solid 1px rgb(255, 242, 0);
+    .card--item--new {
+      border: solid 1px 2rem rgb(255, 242, 0);
       border-width: 2rem;
       max-width: 260px;
       padding: 10px;
