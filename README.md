@@ -136,7 +136,7 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     }
 
 ## Example 11
-    <main class="main__flex-wrap">
+    <main>
         ...
     </main>
 > [!TIP]
@@ -149,8 +149,8 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     </section>
 
 ## Example 13
-    <footer class="card__options">
-      <div class="card__options-buttons">
+    <footer class="card card__options">
+      <div class="card card__options card__options-buttons">
        ...
       </div>
     </footer>
