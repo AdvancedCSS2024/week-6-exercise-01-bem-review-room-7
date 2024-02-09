@@ -62,8 +62,8 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     }
 
 ## Example 3
-    .Newcard {
-      border: solid 1px rgb(255, 242, 0);
+    .card--item--new {
+      border: solid 1px 2rem rgb(255, 242, 0);
       border-width: 2rem;
       max-width: 260px;
       padding: 10px;
