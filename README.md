@@ -173,7 +173,7 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     </section>
 
 ## Example 17
-    <button class="card_basked_button styled disabled">
+    <button class="card_basked_button card__basked__button--disabled">
         <span class="card_basket_button_icon">&#128722;</span>
         <span class="card_basket_button_text">Basket</span>
     </button>
