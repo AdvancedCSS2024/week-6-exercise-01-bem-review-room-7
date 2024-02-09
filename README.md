@@ -97,7 +97,7 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     }
 
 ## Example 7
-    <article class="card cat--card">
+    <article class="card card--cat">
       ...
     </article>
 
