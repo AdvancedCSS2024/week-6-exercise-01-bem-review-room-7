@@ -110,10 +110,6 @@ In addition to the above BEM exercise, in your group, practice Git collaboration
     .card {
         border: solid 1px #000;
         max-width: 360px;
-        padding: 20px;
-    }
-  
-    .card {
         background-color: white;
         margin-bottom: 20px;
         padding: 15px;

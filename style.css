@@ -1,0 +1,9 @@
+
+.card--item{
+    border: solid 2rem;
+    max-width: 260px;
+    padding: 10px;
+}
+.card--item--new {
+    border-color: rgb(255, 242, 0);
+    }
